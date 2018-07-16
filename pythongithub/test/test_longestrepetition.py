@@ -6,7 +6,7 @@ import unittest
 
 import sys
 import os 
-sys.path.append('C:\\Users\\Admin\\Documents\\PROGRAMMATION\\PYTHON\\codewars\\pythongithub')
+
 print(sys.path)
 
 #import  src.longestrepetition
